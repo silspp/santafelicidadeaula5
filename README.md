@@ -1,1 +1,1 @@
-# copiar o codigo e extrarir a pasta
+# copiar o codigo e extrair a pasta
